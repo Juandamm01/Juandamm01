@@ -63,7 +63,6 @@ Exploring the light and dark sides of code ⚔️
   <a href="https://wa.me/573143209494" target="_blank">
     <img align="center" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="WhatsApp" height="30" width="30" />
   </a>
-  <span style="margin-left: 10px; font-size: 16px;">+57 314 320 94 94</span>
 </p>
 
 ---
@@ -74,11 +73,10 @@ Exploring the light and dark sides of code ⚔️
 
 ---
 
-<!-- Si quieres mostrar stats, descomenta esto -->
-<!-- 
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juandamm01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
--->
+
