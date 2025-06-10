@@ -59,11 +59,11 @@ Exploring the light and dark sides of code ⚔️
   <a href="https://github.com/Juandamm01" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" width="30" />
   </a>
-  
-  <a href="mailto:juandamm90@gmail.com">juandamm90@gmail.com" target="_blank">
-    <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="Gmail" height="30" width="30" />
+
+  <a href="mailto:juandamm90@gmail.com" target="_blank">
+    <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="Gmail" height="30" width="40" />
   </a>
-  
+
   <a href="https://wa.me/573143209494" target="_blank">
     <img align="center" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="WhatsApp" height="30" width="30" />
   </a>
