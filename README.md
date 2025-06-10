@@ -64,7 +64,7 @@ Exploring the light and dark sides of code ⚔️
     <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="Gmail" height="30" width="40" />
   </a>
 
-   <a href="https://wa.me/573143209494" target="_blank">
+   <a href="href="mailto:juan.martinez-med@uniminuto.edu.co" target="_blank">
     <img align="center" src="https://cdn.jim-nielsen.com/ios/1024/microsoft-outlook-2019-03-21.png" alt="Outlook" height="30" width="30" />
   </a>
 
