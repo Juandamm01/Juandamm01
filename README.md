@@ -18,17 +18,24 @@
 
 <hr width="60%" >
 
-<h3 align="left">Connect with me: +57 314 320 94 94 </h3>
+<h3 align="left">📞 Connect with me:</h3>
 
 <p align="left">
-  
-<a href="https://www.linkedin.com/in/juan-david-3449b3347/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/juan-david-3449b3347/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 
-<a href="https://www.instagram.com/__juandamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/__juandamm/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 
- <a style="margin-left: 10px;" target="_blank" href="https://github.com/Juandamm01">
-		<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png"></a>
+  <a href="https://github.com/Juandamm01" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" width="30" />
+  </a>
 </p>
+
+<p>📱 +57 314 320 94 94</p>
+
 <br>
 
 
