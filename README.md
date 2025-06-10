@@ -59,13 +59,16 @@ Exploring the light and dark sides of code ⚔️
   <a href="https://github.com/Juandamm01" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" width="30" />
   </a>
-</p>
 
-📱 WhatsApp: +57 314 320 94 94
+  <a href="https://wa.me/573143209494" target="_blank">
+    <img align="center" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="WhatsApp" height="30" width="30" />
+  </a>
+  <span style="margin-left: 10px; font-size: 16px;">+57 314 320 94 94</span>
+</p>
 
 ---
 
-### ✨ Fun Fact
+### Fun Fact
 
 > "The Force will be with you... always. Especially if you commit frequently." – Jedi Git Master 🧙‍♂️
 
