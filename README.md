@@ -6,7 +6,7 @@
   
   ---
   
-  **🌌 Software Development student with a strong passion for cybersecurity and backend mobile app development.**  
+  **🌌 Software Development student with a strong passion for Back-end / Front - end and backend mobile app development.**  
   Exploring the light and dark sides of code ⚔️
   
   ---
