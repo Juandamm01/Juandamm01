@@ -46,7 +46,7 @@ const Juan = {
   &nbsp;
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" title="Express.js"/>
+  <img src="https://img.shields.io/badge/Express.js-555555?logo=express&logoColor=white&style=flat" height="28" title="Express.js"/>
   &nbsp;
   <!-- Bases de datos -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" title="PostgreSQL"/>
@@ -54,12 +54,8 @@ const Juan = {
   &nbsp;
   <!-- Herramientas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36" height="36" title="Postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="36" height="36" title="Prisma"/>
-  &nbsp;
-  <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="36" title="AWS"/>
 </p>
 
 ---
