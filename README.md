@@ -19,8 +19,7 @@
     <td>
 
 ## 🧑‍💻 SOBRE MÍ
-
-Software Development student passionate about modern interfaces, performance and visual experiences.
+Estudiante de Desarrollo de Software, apasionado por las interfaces modernas, el rendimiento y la creación de experiencias visuales impactantes.
 
 - 🎨 Front-End enfocado en UI modernas  
 - ⚡ Optimización de rendimiento y carga  
