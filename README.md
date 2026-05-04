@@ -123,14 +123,3 @@ const Juan = {
 
 ---
 
-### 👨‍💻 Desarrollado por
-
-<a href="https://github.com/Juandamm01?tab=repositories">
-  <img src="https://github.com/Juandamm01.png" width="85px" style="border-radius:50%;" />
-</a>
-
-<br/>
-
-👉 [Juandamm01](https://github.com/Juandamm01?tab=repositories)
-
-</div>
