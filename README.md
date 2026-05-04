@@ -1,93 +1,119 @@
-<h1 align="center">🌌 Bienvenido a mi GitHub, Joven Padawan</h1>
+<h1 align="center">🌌 BIENVENIDO A MI UNIVERSO DE CÓDIGO</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding GIF" width="280">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
 </p>
 
 <p align="center">
-  <strong>Estudiante de Desarrollo de Software · Front-End Developer · Apasionado por las interfaces que impresionan</strong>
+  <strong>Front-End Developer enfocado en interfaces modernas, rendimiento y experiencias visuales de alto impacto</strong>
 </p>
 
 <p align="center">
-  Explorando los lados de la luz y la oscuridad del código ⚔️
+  Transformando ideas en experiencias digitales ⚔️
 </p>
 
 ---
 
-### 👤 Sobre mí
+<img align="right" height="280px" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+## 🧑‍💻 SOBRE MÍ
 
 ```ts
 const Juan = {
-  semestre:   "5º — Desarrollo de Software",
-  enfoque:    "Front-End avanzado con visión Fullstack",
-  pasión:     "Interfaces interactivas, animaciones y buena UX",
-  actualmente: "Construyendo proyectos reales y creciendo cada día"
+  rol: "Front-End Developer",
+  enfoque: "UI moderna + rendimiento + UX",
+  especialidad: "Interfaces interactivas y animaciones",
+  actualmente: "Construyendo proyectos reales",
+  mentalidad: "Clean code + escalabilidad + impacto visual"
 };
+
 ```
+
+
+
+## ⚙️ ENFOQUE DE DESARROLLO
+
+- Componentización y reutilización  
+- Separación clara de lógica y presentación  
+- Manejo eficiente de estado  
+- Optimización de carga y renderizado
+<div style="float: right; margin-left:120px; margin-top:60px;">
+  <img height="150px" src="https://media.tenor.com/tDKhctGeXjkAAAAd/michael-jackson-thriller.gif" />
+</div>
+
+<br clear="both"/>
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+## 🚀 ENFOQUE PROFESIONAL
+
+- Interfaces modernas y responsivas  
+- Experiencia de usuario (UX/UI)  
+- Optimización y rendimiento  
+- Arquitectura escalable  
+
+---
+
+
+## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
 
 <p align="center">
-
-  <!-- Frontend -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-
-  <!-- Lenguajes -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-
-  <!-- Frameworks -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
-
-  <!-- Backend -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
-
-  <!-- Bases de datos -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-
-  <!-- Herramientas -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" title="Prisma"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,flutter,nodejs,express,postgres,mongodb,git,postman,prisma&perline=7" />
 </p>
 
 ---
 
-### 📞 Contáctame
+<h2 align="center">
+  CONNECT WITH ME 
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-david19/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35" title="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://github.com/Juandamm01" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" title="GitHub"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   </a>
   <a href="mailto:juandamm099@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" title="Gmail"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
 </p>
 
+<br clear="both"/>
+
+<br clear="both"/>
+
 ---
 
-> *"La Fuerza siempre estará contigo."* — Obi-Wan Kenobi 🧙‍♂️
+<div align="center">
+
+### 🌌 FIN DE LA TRANSMISIÓN
+
+*"El código despierta en las sombras del repositorio..."*
+
+<br/>
+
+💻 Hecho con pasión, errores y Coca&Cola
+⚡ Siempre haciendo commits hacia el lado oscuro del stack  
+
+<br/>
+
+<img height="160px" src="https://www.icegif.com/wp-content/uploads/2025/02/kendrick-lamar-icegif-1.gif" />
+
+<br/><br/>
+
+🛰️ **Que los commits te acompañen**
+
+<br/><br/>
 
 ---
+### 👨‍💻 Desarrollado por
 
-<p align="center">
-  <sub>© 2026 Juan David Martinez Medina</sub>
-</p>
+<a href="https://github.com/Juandamm01?tab=repositories">
+  <img src="https://github.com/Juandamm01.png" width="80px" style="border-radius:50%;" />
+</a>
+
+<br/>
+
+👉 [Juandamm01](https://github.com/Juandamm01?tab=repositories)
